@@ -2,16 +2,23 @@
 
 I'm Mohit Mishra, a passionate Python backend developer on a journey of continuous learning and growth. My GitHub repository, **MOHITMISHRA1997/MOHITMISHRA1997**, is where I showcase my projects and contributions.
 
+  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="DRF" width="45" height="45"/>
+</p>
+
+
 🔭 **Currently Working On:**
 - Building scalable and efficient Python backend solutions.
 - Exploring new technologies to enhance my development skills.
 
-  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+
 
 🌱 **Currently Learning:**
 - Always looking to expand my knowledge and currently delving into the latest web development trends.
