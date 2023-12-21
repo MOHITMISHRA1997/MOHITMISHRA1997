@@ -6,6 +6,13 @@ I'm Mohit Mishra, a passionate Python backend developer on a journey of continuo
 - Building scalable and efficient Python backend solutions.
 - Exploring new technologies to enhance my development skills.
 
+  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 🌱 **Currently Learning:**
 - Always looking to expand my knowledge and currently delving into the latest web development trends.
 - Actively seeking opportunities to deepen my understanding of software architecture and design principles.
