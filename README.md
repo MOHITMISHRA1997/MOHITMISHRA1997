@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<a href="https://www.instagram.com/mohit_.mishra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 I'm Mohit Mishra, a passionate Python backend developer on a journey of continuous learning and growth. My GitHub repository, **MOHITMISHRA1997/MOHITMISHRA1997**, is where I showcase my projects and contributions.
 
