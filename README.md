@@ -11,6 +11,7 @@ I'm Mohit Mishra, a passionate Python backend developer on a journey of continuo
 - Actively seeking opportunities to deepen my understanding of software architecture and design principles.
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHITMISHRA1997&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITMISHRA1997&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 👯 **Looking to Collaborate On:**
 - Open source projects that align with my interests and goals.
