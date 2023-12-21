@@ -1,4 +1,6 @@
-### Hi there! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 I'm Mohit Mishra, a passionate Python backend developer on a journey of continuous learning and growth. My GitHub repository, **MOHITMISHRA1997/MOHITMISHRA1997**, is where I showcase my projects and contributions.
 
