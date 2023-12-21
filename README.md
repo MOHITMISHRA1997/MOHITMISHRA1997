@@ -49,3 +49,5 @@ I'm Mohit Mishra, a passionate Python backend developer on a journey of continuo
 - I took a leap from civil engineering to pursue my passion for coding, and I haven't looked back since!
 
 Let's collaborate and build something amazing together! 🚀
+
+![Snake animation](https://github.com/MOHITMISHRA1997/MOHITMISHRA1997/blob/output/github-contribution-grid-snake.svg)
