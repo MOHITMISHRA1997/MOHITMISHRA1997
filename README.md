@@ -43,9 +43,10 @@ I'm Mohit Mishra, a passionate Python backend developer on a journey of continuo
 📫 **How to Reach Me:**
 - Feel free to reach out to me via email at your.email@example.com.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
-- Chat with me - <a href="https://www.instagram.com/mohit_.mishra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+- Chat with me :-
+              <a href="https://www.instagram.com/mohit_.mishra/">
+                <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+              </a>
 
 
 ⚡ **Fun Fact:**
